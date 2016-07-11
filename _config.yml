@@ -5,23 +5,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 1
+    permalink:
+      path: '/:title/'
 color:
-  saturation: 0.4897282
+  saturation: 0.5549582
   brandStrength: 0.07825568
   lightness: 0.3004779
   brandColors:
-    - '#16193B'
-    - '#35478C'
-    - '#4E7AC7'
-    - '#7FB2F0'
-    - '#ADD5F7'
-  rhythmicContrast: 0.6822709
+    - '#11100B'
+    - '#7D756D'
+    - '#3D321F'
+    - '#D5CBC2'
+    - '#A99C93'
+  rhythmicContrast: 0.7855436
+typography_spectrum: 1
 layout_spectrum: 0.449195109307766
 name: Black Sea
