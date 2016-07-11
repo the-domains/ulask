@@ -11,10 +11,9 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 1
 color:
   saturation: 0.2801673
-  brandStrength: 0.07825568
+  brandStrength: 0
   lightness: 0.8787335
   brandColors:
     - '#11100B'
@@ -23,5 +22,6 @@ color:
     - '#D5CBC2'
     - '#A99C93'
   rhythmicContrast: 0.7855436
-layout_spectrum: 0.449195109307766
+typography_spectrum: 0.755675
+layout_spectrum: 0.9097969
 name: Black Sea
